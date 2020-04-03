@@ -119,6 +119,12 @@
           "version": "2.644.0",
           "dev": false,
           "notRemovable": false
+        },
+        "test": {
+          "name": "test",
+          "version": "0.6.0",
+          "dev": false,
+          "language": "nodejs"
         }
       }
     }
@@ -131,9 +137,9 @@
     "platform": "GCP",
     "language": "nodejs",
     "platformRegions": {
-      "AWS": "us-east-1"
+      "AWS": "us-east-2"
     },
-    "lastSave": 1585886210800
+    "lastSave": 1585886853189
   },
   "VCS_STATE": {
     "provider": "GitHub",

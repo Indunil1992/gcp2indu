@@ -2,7 +2,8 @@
   "name": "gcp2indu",
   "version": "1.0.0",
   "dependencies": {
-    "aws-sdk": "2.644.0"
+    "aws-sdk": "2.644.0",
+    "test": "0.6.0"
   },
   "devDependencies": {}
 }
